@@ -76,3 +76,10 @@ DerivedDataCache/*
 
 Builds/*
 Plugins/*
+
+# --- macOS / exFAT noise ---
+.DS_Store
+._*
+
+# --- Third-party plugins ---
+Plugins/
